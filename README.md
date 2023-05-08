@@ -18,7 +18,7 @@
 
 - 로블록스 게임 종류
 
-|Name of Game|Genre|Number of Game|
+|Game Name|Genre|Number of Game|
 |------|---|---|
 |'Adopt Me!'|가족 롤플레잉 게임|10|
 |'Meep City'|롤플레잉 게임|10|
