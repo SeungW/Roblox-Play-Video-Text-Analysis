@@ -16,11 +16,9 @@
 게임에 대한 플레이 영상을 10개씩 선발하고, 영상으로부터
 음성- 텍스트화(Speech to text)를 수행했다. 
 
-- 우리가 선택한 로블록스 게임 종류
-> Adopt Me! : 가족 롤플레잉 게임
-> 
+- 로블록스 게임 종류
 
-|Name of Game|Genre|Numbers Of Game|
+|Name of Game|Genre|Number of Game|
 |------|---|---|
 |'Adopt Me!'|가족 롤플레잉 게임|10|
 |'Meep City'|롤플레잉 게임|10|
