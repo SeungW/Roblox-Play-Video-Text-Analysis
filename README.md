@@ -36,13 +36,10 @@
 |'Pizza factory tycoon'|타이쿤(경영) 요리 게임|10|
 |'Restaurant Tycoon'|타이쿤(경영) 게임|10|
 
+### 분석 방법
 
+### Speach To Text(STT)
 
+### 전처리
 
-
-
-
-
-
-
-
+### 결과
