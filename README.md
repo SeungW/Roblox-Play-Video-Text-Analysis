@@ -7,7 +7,7 @@
 
 > ![로블록스플레이화면](https://user-images.githubusercontent.com/108673913/236810618-c5b68622-2d2c-471f-a70a-7c4b4837ebf2.jpg) 
 
-<img src="https://user-images.githubusercontent.com/108673913/236810618-c5b68622-2d2c-471f-a70a-7c4b4837ebf2.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/108673913/236810618-c5b68622-2d2c-471f-a70a-7c4b4837ebf2.jpg" width="800" height="400"/>
 
 ### 데이터설명
 > 본 논문에서는 대표적인 메타버스 플랫폼인
