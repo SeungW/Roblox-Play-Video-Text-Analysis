@@ -36,7 +36,7 @@
 
 - 2. TF-IDF 분석
 
-TF-IDF(Term Frequency-Inverse Document Frequency, 단어 빈도-역문서 빈도)는 정보 검색 분야에서 다중 종류 문서 데이터가 주어졌을 때, 특정 단어가 각 문서에서 얼마나 중요한지를 정량화하는 방법이다. 전체 문서 집합 $D$가 주어졌을 때, 어떤 단어 $t$의 어떤 문서 $d$에서의 중요도인 $TFIDF(t,d,D)$는 다음과 같다.
+TF-IDF(Term Frequency-Inverse Document Frequency, 단어 빈도-역문서 빈도)는 정보 검색     분야에서 다중 종류 문서 데이터가 주어졌을 때, 특정 단어가 각 문서에서 얼마나 중요한지를 정량화하는 방법이다. 전체 문서 집합 $D$가 주어졌을 때, 어떤 단어 $t$의 어떤 문서 $d$에서의 중요도인 $TFIDF(t,d,D)$는 다음과 같다.
 
 $$TFIDF(t,d,D)=TF(t,d)×IDF(t,D)$$
 
