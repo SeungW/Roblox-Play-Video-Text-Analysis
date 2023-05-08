@@ -66,6 +66,13 @@ $$p=\frac{C!(N-C)!R!(N-R)!}{a!b!c!d!N!}$$
 
 ### Speach To Text(STT)
 
+로블록스 영상 100개의 음성데이터를 자연어 데이터로 변환하기 위해 **Daglo 사이트**를 사용하였다.  
+- [Daglo 사이트](https://daglo.ai/board?page=1)  
+
+![Daglo](https://user-images.githubusercontent.com/110529690/236818374-b8625644-7dc1-4c8c-beba-f6b0a585776e.png)  
+ 
+Daglo 사이트를 이용하여 총 100개의 데이터를 **텍스트화**한 후 학습에 사용하였다. 이 과정을 통해 로블록스 메타버스 활동에서 얻은 음성 데이터를 분석 가능한 형태로 전환할 수 있었다.
+
 ### 전처리
 
 ### 결과
